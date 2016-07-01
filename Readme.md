@@ -21,13 +21,11 @@ No primeiro momento, computamos o custo de todas as possíveis linhas em uma mat
 
 ## Implementação
 
-A implementação está explicada nos comentários do código.
+A implementação está explicada nos comentários do código. A atual implementação possui as seguintes complexidades:
 
-Complexidade de Tempo
-O(nˆ2)
+    Complexidade de Tempo: O(nˆ2)
 
-Complexidade de Espaço
-O(nˆ2)
+    Complexidade de Espaço: O(nˆ2)
 
 ## Conclusões
 O algoritmo se mostrou uma boa solução para resolver o problema proposto, porém é possível reduzir a complexidade de espaço para O(n)
@@ -39,5 +37,7 @@ O algoritmo se mostrou uma boa solução para resolver o problema proposto, por�
 
 # Referências
 [1] http://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
+
 [2] https://en.wikipedia.org/wiki/Line_wrap_and_word_wrap
+
 [3] https://www.youtube.com/watch?v=RORuwHiblPc

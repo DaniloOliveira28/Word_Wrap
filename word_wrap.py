@@ -47,6 +47,3 @@ def wordwrap_dp(words, word_wrap_column):
         if j >= len(words):
             break
     sys.stdout.write(final)
-
-    # print "Custo minimo para linha " + str(minCost[0])
-    # print "\n"
